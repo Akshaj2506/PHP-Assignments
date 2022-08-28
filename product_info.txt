@@ -1,0 +1,5 @@
+101 | Pencil | 10.00 | 5 | Faber Castell
+102 | Eraser | 5.00 | 8 | Camlin
+103 | Bag | 3000.00 | 2 | Skybags
+104 | Notebook | 450.00 | 3 | Classmate
+105 | Water Bottle | 100.00 | 2 | Borosil

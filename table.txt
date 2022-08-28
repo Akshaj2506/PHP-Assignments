@@ -1,0 +1,4 @@
+Apple 16-inch Macbook Pro M1 Max | 16.2" | 3456 x 2234 | Mac OS Monterey
+Dell XPS 13 (9310) | 13.4" | 3840 x 2400 | Windows 10 Home
+Asus ROG Flow X13 | 13.4" | 3840 x 2400 | Windows 10 Pro
+Apple Macbook Air M1 | 13.3" | 2560 x 1600 | MacOS 10.14 Mojave
